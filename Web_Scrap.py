@@ -1,3 +1,8 @@
+'''
+Author : Keerthi
+Id : N151119
+Scraping the images of the students from the local web site (SMS)
+'''
 import requests
 file = open("users.txt","r+")
 for line in file:
